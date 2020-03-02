@@ -1,0 +1,8 @@
+.terraform/modules/modules.json
+.terraform/plugins/linux_amd64/terraform-provider-acme_v1.5.0_x4
+.terraform/plugins/linux_amd64/terraform-provider-aws_v2.50.0_x4
+.terraform/plugins/linux_amd64/terraform-provider-digitalocean_v1.14.0_x4
+.terraform/plugins/linux_amd64/terraform-provider-null_v2.1.2_x4
+.terraform/plugins/linux_amd64/terraform-provider-template_v2.1.2_x4
+.terraform/plugins/linux_amd64/terraform-provider-tls_v2.1.1_x4
+public_keys/aws-key.pub
